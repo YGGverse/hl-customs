@@ -1,6 +1,6 @@
 # Media resources for Half-Life customization
 
-Useful for any mods like game launcher, server editions, website icons and other needs.
+Useful for any mods like game launcher, server editions, team graffiti, website icons and other needs.
 
 Project created by inspiration of [Xash3D FWGS / Yggdrasil Build](https://github.com/YGGverse/xash3d-fwgs/branches) and [HLState](https://github.com/YGGverse/HLState) projects
 
@@ -8,11 +8,11 @@ Project created by inspiration of [Xash3D FWGS / Yggdrasil Build](https://github
 
 **IPv6 style**
 
-![Half-Life IPv6](https://github.com/YGGverse/hl-customs/blob/main/icon/128/hl-icon-ipv6.png?raw=true)
+![Half-Life IPv6 Icon](https://github.com/YGGverse/hl-customs/blob/main/icon/ipv6/128x128.png?raw=true)
 
 **Yggdrasil style**
 
-![Half-Life IPv6](https://github.com/YGGverse/hl-customs/blob/main/icon/128/hl-icon-yggdrasil.png?raw=true)
+![Half-Life Yggdrasil Icon](https://github.com/YGGverse/hl-customs/blob/main/icon/yggdrasil/128x128.png?raw=true)
 
 ## Favicons
 
