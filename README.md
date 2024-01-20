@@ -8,8 +8,8 @@ Project created by inspiration of [Xash3D FWGS / Yggdrasil Build](https://github
 
 **IPv6 style**
 
-![Half-Life IPv6](https://github.com/YGGverse/half-life-media/blob/main/icon/128/half-life-icon-ipv6.png?raw=true)
+![Half-Life IPv6](https://github.com/YGGverse/hl-customs/blob/main/icon/128/hl-icon-ipv6.png?raw=true)
 
 **Yggdrasil style**
 
-![Half-Life IPv6](https://github.com/YGGverse/half-life-media/blob/main/icon/128/half-life-icon-yggdrasil.png?raw=true)
+![Half-Life IPv6](https://github.com/YGGverse/hl-customs/blob/main/icon/128/hl-icon-yggdrasil.png?raw=true)
