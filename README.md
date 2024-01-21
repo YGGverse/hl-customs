@@ -6,11 +6,11 @@ Project created by inspiration of [Xash3D FWGS / Yggdrasil Build](https://github
 
 ## Icons
 
-**IPv6 style**
+**[IPv6 style](https://github.com/YGGverse/hl-customs/tree/main/icons/ipv6)**
 
 ![Half-Life IPv6 Icon](https://github.com/YGGverse/hl-customs/blob/main/icons/ipv6/128x128.png?raw=true)
 
-**Yggdrasil style**
+**[Yggdrasil style](https://github.com/YGGverse/hl-customs/tree/main/icons/yggdrasil)**
 
 ![Half-Life Yggdrasil Icon](https://github.com/YGGverse/hl-customs/blob/main/icons/yggdrasil/128x128.png?raw=true)
 
